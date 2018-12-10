@@ -1,0 +1,4 @@
+#Mon Dec 10 12:28:58 SGT 2018
+base.0=C\:\\Users\\taruc\\AndroidStudioProjects\\TabExperiment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
